@@ -55,6 +55,3 @@
 <br clear="both">
 
 <img data-importer="snake" src="https://raw.githubusercontent.com/davilucas8843/davilucas8843/snake-output/snake.svg" alt="Snake animation" />
-
-###
- imgame sem aparecer e jogo sem funcionar
